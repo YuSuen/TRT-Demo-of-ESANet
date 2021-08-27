@@ -8,6 +8,8 @@ Camera: zed2
 
 TensorRT Version: 7.1.3
 
+PyTorch Version: 1.6
+
 CUDA Version: 10.2
 
 CUDNN Version: 8.0
