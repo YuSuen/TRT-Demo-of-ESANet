@@ -1,6 +1,8 @@
 # TRT-Demo-of-ESANet
 This is the demo of ESANet implemnet by ROS + TensorRT
 
+[ESANet official code](https://github.com/TUI-NICR/ESANet)
+
 ## Environment
 camera: zed2
 
