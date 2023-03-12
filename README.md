@@ -1,5 +1,5 @@
 # TRT-Demo-of-ESANet
-This is the demo of ESANet implement by ROS + TensorRT
+This is an ESANet real-time semantic segmentation demo implemented with ROS + TensorRT.
 
 [ESANet official code](https://github.com/TUI-NICR/ESANet)
 
